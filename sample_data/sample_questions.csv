@@ -1,0 +1,6 @@
+stem,type,choices,correctIndexes,acceptableAnswers,numericAnswer,explanation,difficulty,tags,subject,gradeLevel,bloomLevel,mediaImageUrl,mediaAudioUrl
+Which planet is known as the Red Planet?,MCQ_SINGLE,["Mercury","Venus","Earth","Mars"],[3],,,2,["science","astronomy"],Science,6,Remember,,
+Select even numbers,MCQ_MULTI,["1","2","3","4"],[1,3],,,1,["math","numbers"],Mathematics,5,Remember,,
+Water freezes at 0 C at standard pressure.,TRUE_FALSE,[],[1],,,1,["science","chemistry"],Science,5,Remember,,
+Define ecosystem.,SHORT_ANSWER,[],[],["a community of living organisms interacting"],,2,["science","biology"],Science,7,Understand,,
+What is 3.14 rounded to the nearest integer?,NUMERIC,[],[],[],3.0,,1,["math","arithmetic"],Mathematics,5,Apply,,

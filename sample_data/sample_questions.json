@@ -1,0 +1,34 @@
+[
+  {
+    "stem": "Which gas do plants primarily absorb for photosynthesis?",
+    "type": "MCQ_SINGLE",
+    "choices": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "correctIndexes": [1],
+    "acceptableAnswers": [],
+    "numericAnswer": null,
+    "explanation": "Plants absorb CO2.",
+    "difficulty": 2,
+    "tags": ["science", "biology"],
+    "subject": "Science",
+    "gradeLevel": "7",
+    "bloomLevel": "Understand",
+    "mediaImageUrl": null,
+    "mediaAudioUrl": null
+  },
+  {
+    "stem": "True or False: Sound cannot travel through a vacuum.",
+    "type": "TRUE_FALSE",
+    "choices": [],
+    "correctIndexes": [1],
+    "acceptableAnswers": [],
+    "numericAnswer": null,
+    "explanation": "True. Sound needs a medium.",
+    "difficulty": 2,
+    "tags": ["science", "physics"],
+    "subject": "Science",
+    "gradeLevel": "6",
+    "bloomLevel": "Remember",
+    "mediaImageUrl": null,
+    "mediaAudioUrl": null
+  }
+]
